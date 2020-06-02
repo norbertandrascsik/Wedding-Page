@@ -178,7 +178,7 @@ img {
 /*=== PROGRAM STYLES ===*/
 
 .program {
-  text-align: left;
+  text-align: center;
   background: hsla(100,0%,0%,.6);
   color: #d2ba87;
   font-family: 'Muli', sans-serif;
